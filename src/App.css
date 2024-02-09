@@ -6,3 +6,10 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.home-background {
+  background-image: url("https://images.pexels.com/photos/1591056/pexels-photo-1591056.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
